@@ -1,0 +1,3 @@
+apps:
+  my-app-web:
+    run: "python ./helloworld/main.py" 
